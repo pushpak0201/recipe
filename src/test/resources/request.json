@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "name": "KajuKhoya",
+  "price": 350,
+  "type": "Sabji",
+  "cookingInstructions": "Cashew,  Oil, Butter, Bay leaf, Mawa, Sugar, ardamom seeds powder",
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Cashew",
+      "quantity": "100g"
+    },
+    {
+      "id": 2,
+      "name": "oil",
+      "quantity": "20g"
+    }
+  ]
+}
